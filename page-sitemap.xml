@@ -2,12 +2,12 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-21T18:08:48+00:00</lastmod>
+		<lastmod>2025-02-26T22:05:34+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/review1.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/review3.webp</image:loc>
+			<image:loc>/wp-content/uploads/2025/02/review5.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/review4.webp</image:loc>
@@ -16,13 +16,13 @@
 			<image:loc>/wp-content/uploads/2025/02/review2.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/review5.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/02/icon1.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/02/review3.webp</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/icon2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/icon1.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/02/icon3.png</image:loc>
@@ -32,36 +32,24 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/broomfield/</loc>
+		<lastmod>2025-02-27T00:19:04+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/northglenn/</loc>
-		<lastmod>2025-02-22T03:00:27+00:00</lastmod>
+		<lastmod>2025-02-27T00:18:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/westminster/</loc>
-		<lastmod>2025-02-22T03:00:27+00:00</lastmod>
+		<lastmod>2025-02-27T00:18:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/brighton/</loc>
-		<lastmod>2025-02-22T03:00:27+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/broomfield/</loc>
-		<lastmod>2025-02-22T03:00:27+00:00</lastmod>
+		<lastmod>2025-02-27T00:18:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/arvada/</loc>
-		<lastmod>2025-02-22T03:00:27+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/rodent-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/spider-removal/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/cockroach-control/</loc>
-		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+		<lastmod>2025-02-27T00:18:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/flea-treatment/</loc>
@@ -109,6 +97,18 @@
 	</url>
 	<url>
 		<loc>/termite-treatment/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/rodent-control/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/spider-removal/</loc>
+		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/cockroach-control/</loc>
 		<lastmod>2025-02-21T18:37:47+00:00</lastmod>
 	</url>
 	<url>
